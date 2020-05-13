@@ -7,7 +7,7 @@ import java.awt.event.*;
 */
 public class prime extends JApplet 
 {	
-	int i,x=2;
+	int i;
 	JTextField jt;
 	JButton b;
 	JLabel jb,jb1,jb2;
